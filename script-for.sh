@@ -1,4 +1,8 @@
 #!/bin/bash
+# este script faz conversão de imagens
+# script-for.sh
+#
+# autor: Davaniele dos santos Carneiro
 cd imagens-livros
 for imagem in *.jpg
 do
