@@ -3,6 +3,8 @@
 # script-for.sh
 #
 # autor: Davaniele dos santos Carneiro
+# Leticia e Raiele esteve aqui
+
 echo "iniciando"
 cd imagens-livros
 for imagem in *.jpg
