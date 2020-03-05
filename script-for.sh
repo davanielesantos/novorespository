@@ -3,6 +3,7 @@
 # script-for.sh
 #
 # autor: Davaniele dos santos Carneiro
+echo "iniciando"
 cd imagens-livros
 for imagem in *.jpg
 do
@@ -12,4 +13,4 @@ do
 	convert $imagem $img_sem_ext.png
 done
 cd ..
-
+echo "finalizando"
