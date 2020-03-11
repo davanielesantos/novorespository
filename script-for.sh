@@ -3,7 +3,8 @@
 # script-for.sh
 #
 # autor: Davaniele dos santos Carneiro
-# Leticia e Raiele esteve aqui
+# Leticia esteve aqui fazendo alterações!!!
+# Arquivo modificado
 
 echo "iniciando"
 cd imagens-livros
